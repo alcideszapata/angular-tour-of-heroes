@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+/* Application-wide Styles */
+h1 {
+  color: #469933;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 350%;
+}
+h2, h3 {
+  color: rgba(185, 17, 177, 0.82);
+  font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  font-weight: lighter;
+  font-size: 250%;
+}
+body {
+  margin: 2em;
+}
+body, input[type="text"], button {
+  color: rgba(0, 10, 119, 0.94);
+  font-family: Cambria, Georgia, serif;
+  font-size: medium;
+}
+/* everywhere else */
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
