@@ -17,7 +17,7 @@ body {
 body, input[type="text"], button {
   color: rgba(0, 10, 119, 0.94);
   font-family: Cambria, Georgia, serif;
-  font-size: medium;
+  font-size: large;
 }
 /* everywhere else */
 * {
